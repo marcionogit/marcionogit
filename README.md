@@ -7,12 +7,12 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/marcio.cesar.7739)
 [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5513997379899&text=Ol%C3%A1!)
 
-[![MarcionoGit GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcionoGit&show_icons=true&theme=dracula)](https://github.com/marcionogit) 
+[![MarcionoGit GitHub stats](https://github-readme-stats.vercel.app/api?username=marcionogit&show_icons=true&theme=dracula)](https://github.com/marcionogit) 
 
 Amante da tecnologia, estudante de programação
 ### Tecnologias 
-[![Python3](	https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://github.com/MarcionoGit)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/MarcionoGit)
-[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/MarcionoGit)
+[![Python3](	https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://github.com/marcionogit)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/marcionogit)
+[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/marcionogit)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcionoGit&layout=compact)](https://github.com/MarcionoGit/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcionogit&layout=compact)](https://github.com/marcionogit/github-readme-stats)
