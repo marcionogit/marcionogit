@@ -7,7 +7,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/marcio.cesar.7739)
 [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5513997379899&text=Ol%C3%A1!)
 
-[![MarcionoGit GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcionoGit&show_icons=true&theme=dracula)](https://github.com/MarcionoGit)
+[![MarcionoGit GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcionoGit&show_icons=true&theme=dracula)](https://github.com/marcionogit) 
 
 Amante da tecnologia, estudante de programação
 ### Tecnologias 
