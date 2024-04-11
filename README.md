@@ -14,4 +14,4 @@ Amante da tecnologia, estudante de programação
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/marcionogit)
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/marcionogit)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcionogit&layout=compact)](https://github.com/marcionogit/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcionogit&layout=compact&icons=true&theme=dark)](https://github.com/marcionogit/github-readme-stats)
